@@ -1,0 +1,32 @@
+PCAD Importer Log
+Project : BC640.LibPkg
+
+Section : C:\Users\Savindu Dimal\Desktop\libraries\BC640\BC640.lia
+    Section : PCB Library - BC640.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token PNP On Line 156
+            Warning - 1 : Skipping Token attachedSymbol On Line 226
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*SOT54D][Primary] associated with PCAD Component [BC640] has been renamed to PCB FootPrint [*SOT54D_BC640(Primary)].
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+            Warning : Default polygonal pad shape for signal layers has been made multilayer
+        EndSection
+    EndSection
+
+    Section : SCH Library - BC640.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 139
+            Warning - 1 : Skipping Token layerContents On Line 144
+            Warning - 1 : Skipping Token layerContents On Line 149
+        EndSection
+
+        Section : Generating SCH Library - BC640.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*SOT54D][Primary] associated with PCAD Component [BC640] has been renamed to PCB FootPrint [*SOT54D_BC640(Primary)].
+        EndSection
+    EndSection
+EndSection

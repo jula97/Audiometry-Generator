@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=DAC power-1
+Removed Pin From Net: NetName=+15V Pin=DAC power-2
+Added Pin To Net: NetName=+15V Pin=DAC power-1
+Added Pin To Net: NetName=GND Pin=DAC power-2
+Added Room: Name=power amp

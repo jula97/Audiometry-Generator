@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=+5V Pin=A1-5
+Added Pin To Net: NetName=GND Pin=A1-6
+Added Room: Name=power amp

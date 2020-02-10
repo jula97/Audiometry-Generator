@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : TL071CP.LibPkg
+
+Section : C:\Users\Savindu Dimal\Desktop\libraries\TL071CP\TL071CP.lia
+    Section : PCB Library - TL071CP.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token TL071CP On Line 201
+            Warning - 1 : Skipping Token attachedSymbol On Line 308
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TL071CP.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 149
+            Warning - 1 : Skipping Token layerContents On Line 192
+        EndSection
+
+        Section : Generating SCH Library - TL071CP.SchLib
+        EndSection
+    EndSection
+EndSection

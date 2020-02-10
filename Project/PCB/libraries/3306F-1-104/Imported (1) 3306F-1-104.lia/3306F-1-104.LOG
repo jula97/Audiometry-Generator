@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 3306F-1-104.LibPkg
+
+Section : C:\Users\Savindu Dimal\Desktop\libraries\3306F-1-104\3306F-1-104.lia
+    Section : PCB Library - 3306F-1-104.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 3306F-1-104 On Line 163
+            Warning - 1 : Skipping Token attachedSymbol On Line 229
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 3306F-1-104.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 139
+            Warning - 1 : Skipping Token layerContents On Line 155
+        EndSection
+
+        Section : Generating SCH Library - 3306F-1-104.SchLib
+        EndSection
+    EndSection
+EndSection

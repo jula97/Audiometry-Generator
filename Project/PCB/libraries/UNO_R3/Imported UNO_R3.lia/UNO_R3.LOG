@@ -1,0 +1,54 @@
+PCAD Importer Log
+Project : UNO_R3.LibPkg
+
+Section : C:\Users\Savindu Dimal\Desktop\libraries\UNO_R3\UNO_R3.lia
+    Section : PCB Library - UNO_R3.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SDA On Line 140
+            Warning - 1 : Skipping Token SCL On Line 141
+            Warning - 1 : Skipping Token UNO_R3_POWER On Line 258
+            Warning - 1 : Skipping Token UNO_R3_ANALOG On Line 347
+            Warning - 1 : Skipping Token UNO_R3_IOL On Line 418
+            Warning - 1 : Skipping Token UNO_R3_IOH On Line 507
+            Warning - 1 : Skipping Token attachedSymbol On Line 657
+            Warning - 1 : Skipping Token attachedSymbol On Line 658
+            Warning - 1 : Skipping Token attachedSymbol On Line 659
+            Warning - 1 : Skipping Token attachedSymbol On Line 660
+            Warning - 1 : Skipping Token 3 On Line 663
+            Warning - 1 : Skipping Token 2 On Line 679
+            Warning - 1 : Skipping Token 1 On Line 681
+            Warning - 1 : Skipping Token SCL On Line 699
+            Warning - 1 : Skipping Token SDA On Line 701
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*ARDUINO_UNO_R3][Primary] associated with PCAD Component [UNO_R3] has been renamed to PCB FootPrint [*ARDUINO_UNO_R3_UNO_R3(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - UNO_R3.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 145
+            Warning - 1 : Skipping Token layerContents On Line 176
+            Warning - 1 : Skipping Token layerContents On Line 207
+            Warning - 1 : Skipping Token layerContents On Line 236
+            Warning - 1 : Skipping Token isVisible On Line 336
+            Warning - 1 : Skipping Token isVisible On Line 407
+            Warning - 1 : Skipping Token isVisible On Line 496
+            Warning - 1 : Skipping Token isVisible On Line 603
+            Warning - 1 : Skipping Token 3 On Line 663
+            Warning - 1 : Skipping Token 2 On Line 679
+            Warning - 1 : Skipping Token 1 On Line 681
+            Warning - 1 : Skipping Token SCL On Line 699
+            Warning - 1 : Skipping Token SDA On Line 701
+        EndSection
+
+        Section : Generating SCH Library - UNO_R3.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*ARDUINO_UNO_R3][Primary] associated with PCAD Component [UNO_R3] has been renamed to PCB FootPrint [*ARDUINO_UNO_R3_UNO_R3(Primary)].
+        EndSection
+    EndSection
+EndSection

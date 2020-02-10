@@ -1,0 +1,34 @@
+PCAD Importer Log
+Project : TIP120.LibPkg
+
+Section : C:\Users\Savindu Dimal\Desktop\libraries\TIP120\TIP120.lia
+    Section : PCB Library - TIP120.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 169
+            Warning - 1 : Skipping Token N-DAR On Line 209
+            Warning - 1 : Skipping Token attachedSymbol On Line 280
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*TO220AH][Primary] associated with PCAD Component [TIP120] has been renamed to PCB FootPrint [*TO220AH_TIP120(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - TIP120.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 105
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 113
+            Warning - 1 : Skipping Token layerContents On Line 135
+            Warning - 1 : Skipping Token layerContents On Line 157
+        EndSection
+
+        Section : Generating SCH Library - TIP120.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*TO220AH][Primary] associated with PCAD Component [TIP120] has been renamed to PCB FootPrint [*TO220AH_TIP120(Primary)].
+        EndSection
+    EndSection
+EndSection

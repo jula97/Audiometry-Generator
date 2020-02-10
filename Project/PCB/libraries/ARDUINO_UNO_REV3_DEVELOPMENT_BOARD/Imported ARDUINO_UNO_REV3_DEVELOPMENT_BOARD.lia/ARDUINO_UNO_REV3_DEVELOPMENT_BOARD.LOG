@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : ARDUINO_UNO_REV3_DEVELOPMENT_BOARD.LibPkg
+
+Section : C:\Users\Savindu Dimal\Desktop\libraries\ARDUINO_UNO_REV3_DEVELOPMENT_BOARD\ARDUINO_UNO_REV3_DEVELOPMENT_BOARD.lia
+    Section : PCB Library - ARDUINO_UNO_REV3_DEVELOPMENT_BOARD.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ARDUINO_UNO_REV3_DEVELOPMENT_BOARD On Line 216
+            Warning - 1 : Skipping Token attachedSymbol On Line 553
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ARDUINO_UNO_REV3_DEVELOPMENT_BOARD.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 145
+            Warning - 1 : Skipping Token layerContents On Line 164
+            Warning - 1 : Skipping Token layerContents On Line 183
+            Warning - 1 : Skipping Token layerContents On Line 200
+        EndSection
+
+        Section : Generating SCH Library - ARDUINO_UNO_REV3_DEVELOPMENT_BOARD.SchLib
+        EndSection
+    EndSection
+EndSection

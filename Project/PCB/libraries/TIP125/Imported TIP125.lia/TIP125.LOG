@@ -1,0 +1,38 @@
+PCAD Importer Log
+Project : TIP125.LibPkg
+
+Section : C:\Users\Savindu Dimal\Desktop\libraries\TIP125\TIP125.lia
+    Section : PCB Library - TIP125.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 108
+            Warning - 1 : Skipping Token isVisible On Line 109
+            Warning - 1 : Skipping Token isVisible On Line 110
+            Warning - 1 : Skipping Token isVisible On Line 137
+            Warning - 1 : Skipping Token isVisible On Line 138
+            Warning - 1 : Skipping Token isVisible On Line 139
+            Warning - 1 : Skipping Token isVisible On Line 175
+            Warning - 1 : Skipping Token PNP-DAR On Line 215
+            Warning - 1 : Skipping Token attachedSymbol On Line 310
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TIP125.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 105
+            Warning - 1 : Skipping Token layerContents On Line 130
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 159
+            Warning - 1 : Skipping Token layerContents On Line 163
+        EndSection
+
+        Section : Generating SCH Library - TIP125.SchLib
+        EndSection
+    EndSection
+EndSection
